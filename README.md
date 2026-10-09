@@ -25,7 +25,7 @@ By Aaron "The Husky Hacker" Gaddis
 ## Installation
 
 ```bash
-git clone https://github.com/HackingHusky/oscp-methodology-checklist.git
+git clone https://github.com/TheHuskyHacker/oscp-methodology-checklist
 cd oscp-methodology-checklist
 chmod +x oscp-methodology-checklist.sh
 ```
